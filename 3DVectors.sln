@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DVectors", "3DVectors\3DVectors.csproj", "{2F0A9F5C-72E3-4FA2-B111-B510B7CD7EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorLibrary", "VectorLibrary\VectorLibrary.csproj", "{A46D3740-6EF1-4C3C-AB00-EE5BDCB9F539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorTests", "VectorTests\VectorTests.csproj", "{FC97A2A6-4FF3-41D8-8E64-F6838A0003B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0A9F5C-72E3-4FA2-B111-B510B7CD7EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0A9F5C-72E3-4FA2-B111-B510B7CD7EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0A9F5C-72E3-4FA2-B111-B510B7CD7EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0A9F5C-72E3-4FA2-B111-B510B7CD7EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46D3740-6EF1-4C3C-AB00-EE5BDCB9F539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46D3740-6EF1-4C3C-AB00-EE5BDCB9F539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46D3740-6EF1-4C3C-AB00-EE5BDCB9F539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46D3740-6EF1-4C3C-AB00-EE5BDCB9F539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC97A2A6-4FF3-41D8-8E64-F6838A0003B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC97A2A6-4FF3-41D8-8E64-F6838A0003B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC97A2A6-4FF3-41D8-8E64-F6838A0003B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC97A2A6-4FF3-41D8-8E64-F6838A0003B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFEA2843-85E8-4401-B724-FDFEBAA6E38A}
+	EndGlobalSection
+EndGlobal
